@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/noise-morph/static/css/main.1ea0ce2b.chunk.css",
-    "main.js": "/noise-morph/static/js/main.2da52aa7.chunk.js",
-    "main.js.map": "/noise-morph/static/js/main.2da52aa7.chunk.js.map",
+    "main.js": "/noise-morph/static/js/main.467655de.chunk.js",
+    "main.js.map": "/noise-morph/static/js/main.467655de.chunk.js.map",
     "runtime-main.js": "/noise-morph/static/js/runtime-main.0d63ab95.js",
     "runtime-main.js.map": "/noise-morph/static/js/runtime-main.0d63ab95.js.map",
-    "static/js/2.4b864b4f.chunk.js": "/noise-morph/static/js/2.4b864b4f.chunk.js",
-    "static/js/2.4b864b4f.chunk.js.map": "/noise-morph/static/js/2.4b864b4f.chunk.js.map",
+    "static/js/2.15e7869f.chunk.js": "/noise-morph/static/js/2.15e7869f.chunk.js",
+    "static/js/2.15e7869f.chunk.js.map": "/noise-morph/static/js/2.15e7869f.chunk.js.map",
     "static/js/3.fe472975.chunk.js": "/noise-morph/static/js/3.fe472975.chunk.js",
     "static/js/3.fe472975.chunk.js.map": "/noise-morph/static/js/3.fe472975.chunk.js.map",
     "index.html": "/noise-morph/index.html",
     "static/css/main.1ea0ce2b.chunk.css.map": "/noise-morph/static/css/main.1ea0ce2b.chunk.css.map",
-    "static/js/2.4b864b4f.chunk.js.LICENSE.txt": "/noise-morph/static/js/2.4b864b4f.chunk.js.LICENSE.txt"
+    "static/js/2.15e7869f.chunk.js.LICENSE.txt": "/noise-morph/static/js/2.15e7869f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0d63ab95.js",
-    "static/js/2.4b864b4f.chunk.js",
+    "static/js/2.15e7869f.chunk.js",
     "static/css/main.1ea0ce2b.chunk.css",
-    "static/js/main.2da52aa7.chunk.js"
+    "static/js/main.467655de.chunk.js"
   ]
 }
